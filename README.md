@@ -2,7 +2,7 @@
 나눔스퀘어라운드체
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "nanumSquareRound";
     font-weight: 300;
     font-style: normal;
